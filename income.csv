@@ -1,0 +1,31 @@
+Id,Age,Income,Occupation,Years of Experience
+1,24,34000,Accountant  ,10
+2,31,32000,Software Engineer  ,9
+3,32,62000,Doctor  ,2
+4,24,70000,Teacher  ,5
+5,24,65000,Lawyer  ,2
+6,30,46000,Architect  ,8
+7,29,41000,Graphic Designer  ,2
+8,31,34000,Data Analyst  ,5
+9,35,69000,Nurse  ,7
+10,30,35000,Electrician  ,10
+11,28,44000,Plumber  ,10
+12,34,36000,Mechanical Engineer  ,3
+13,28,30000,Civil Engineer  ,6
+14,30,39000,Police Officer  ,4
+15,31,66000,Chef  ,8
+16,25,48000,Pharmacist  ,7
+17,25,49000,Dentist  ,6
+18,30,30000,Web Developer  ,1
+19,34,64000,Marketing Manager  ,8
+20,24,52000,HR Manager  ,4
+21,35,44000,Pilot  ,6
+22,35,38000,Scientist  ,6
+23,26,45000,Journalist  ,10
+24,25,56000,Financial Analyst  ,8
+25,24,45000,Cybersecurity Analyst  ,8
+26,30,52000,Biochemist  ,7
+27,26,58000,Artist  ,5
+28,30,65000,Software Developer  ,4
+29,29,60000,Business Consultant  ,8
+30,35,45000,Sales Executive  ,6
